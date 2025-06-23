@@ -1,0 +1,1 @@
+import{S as i}from"./chunk-b67088b8.js";import"./chunk-de833af9.js";(async()=>await new i("84d8b468",{MAX_DAILY_RATE:400,disableLogs:!0}).initContentScript({pascoliFilePath:"pascoli.html",meucciFilePath:"meucci.js"}))();

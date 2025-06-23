@@ -1,0 +1,93 @@
+{
+  "name": "Coursera Helper - Helper for Coursera",
+  "description": "Extension helps bypass videos & readings, auto do quizz, auto submit assignment, auto grade reviews, get shareable links in Coursera",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "img/icon-edge.png",
+    "32": "img/icon-edge.png",
+    "48": "img/icon-edge.png",
+    "128": "img/icon-edge.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "img/icon-edge.png"
+  },
+  "background": {
+    "type": "module",
+    "scripts": [
+      "assets/chunk-179d9286.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "assets/index.ts-loader-66569345.js"
+      ],
+      "matches": [
+        "https://www.coursera.org/*"
+      ],
+      "css": [
+        "assets/index-5ddb7a0d.css"
+      ]
+    },
+    {
+      "js": [
+        "assets/mellowtel.js-loader-9984f7d6.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "homepage_url": "https://www.coursera.org",
+  "web_accessible_resources": [
+    {
+      "matches": [],
+      "resources": [
+        "img/icon-edge.png"
+      ],
+      "use_dynamic_url": false
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "resources": [
+        "pascoli.html",
+        "meucci.js",
+        "assets/chunk-b67088b8.js",
+        "assets/chunk-de833af9.js",
+        "assets/chunk-79bd930f.js"
+      ],
+      "use_dynamic_url": false
+    },
+    {
+      "matches": [
+        "https://www.coursera.org/*"
+      ],
+      "resources": [
+        "assets/chunk-de833af9.js",
+        "assets/chunk-b392e6ff.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ],
+  "permissions": [
+    "storage",
+    "cookies",
+    "tabs",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pear104@coursera-tool",
+      "strict_min_version": "109.0"
+    }
+  }
+}

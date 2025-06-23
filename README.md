@@ -1,125 +1,157 @@
-# CourseraXpress - Automate Coursera Tasks & Complete Courses 10x Faster
+# 🎓 Coursera Tool Extension
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![Platform](https://img.shields.io/badge/platform-Chrome-brightgreen.svg)
+![Coursera Toolkit Banner](./images/Screenshot1.png)
 
-**This browser extension automates videos, quizzes, assignments, and peer reviews on Coursera.** It lets you automatically mark content as completed, submit perfect assignments, and finish courses in a fraction of the time. Built for students and professionals who need certificates quickly without the busy work.
+A comprehensive browser extension designed to enhance your Coursera learning experience through intelligent automation features. Built **for educational purposes only** to help students and professionals manage their coursework more efficiently.
 
-## 🚀 What CourseraXpress Does:
+> ⚠️ **Important Notice:** This tool is intended for educational and research purposes. Users should ensure compliance with Coursera's Terms of Service and use the tool responsibly and ethically.
 
-CourseraXpress delivers powerful automation for Coursera:
+## 🚀 What This Extension Does
 
-- **Auto-completes videos and readings** - marks content as watched instantly
-- **Solves quizzes automatically** - pulls answers from our extensive database
-- **Generates and submits assignments** - creates quality content in seconds
-- **Automates peer reviews** - provides positive feedback to classmates
-- **Posts in discussion forums** - meets participation requirements automatically
-- **Creates shareable submission links** - for easy collaboration
-- **Costs just $10 per course** - saves you dozens of hours of tedious work
+This powerful automation tool provides comprehensive assistance across all aspects of Coursera courses:
 
-## ✨ Comprehensive Feature Set
+### ✨ Core Features
 
-| Feature | Description | Benefits |
-|---------|-------------|----------|
-| **Video Lecture Automation** | Automatically mark videos as watched | Save hours on passive content consumption |
-| **Reading Material Completion** | Instantly mark readings as finished | Focus on the content that matters most |
-| **Quiz Answer Assistant** | Access answers from extensive database | Improve quiz scores with verified solutions |
-| **Assignment Automation** | Generate and submit quality assignments | Meet deadlines with less stress |
-| **Peer Review Helper** | Provide thoughtful peer feedback automatically | Complete course requirements efficiently |
-| **Discussion Participation** | Generate meaningful forum contributions | Meet participation requirements easily |
-| **Progress Tracking** | Monitor your course completion status | Stay organized across multiple courses |
-| **Shareable Submission Links** | Create direct links to your work | Collaborate with classmates seamlessly |
-| **Human Grading Request** | Opt for human instead of AI grading | Get personalized feedback when needed |
+| Feature | Description | Time Saved |
+|---------|-------------|------------|
+| 📑 **Video & Reading Automation** | Auto-complete all videos and reading sections | 100% |
+| 💯 **Smart Quiz Assistant** | Gemini-powered auto-answer for quizzes | 80-95% |
+| 🧑 **Assignment Helper** | Auto-submit peer-graded assignments | 70-90% |
+| 📋 **Submission Management** | One-click copy of your submission links | 100% |
+| ✅ **Peer Review Automation** | Auto-grade with highest scores for peer submissions | 90% |
+| 🤖 **Grading Options** | Switch between AI grading and peer grading | 90% |
+| 📊 **Progress Tracking** | Monitor course completion status | - |
+| 🗣️ **Discussion Participation** | Generate meaningful forum contributions | 95% |
 
-## 📊 Performance & Effectiveness
+> ⚠️ **Caution:** Auto-quiz feature might not always provide 100% accurate answers, and auto-submit feature may occasionally not work as expected.
 
-CourseraXpress saves you time across all aspects of Coursera courses:
+## 📦 Installation Options
 
-- **Videos & Lectures**: 100% time saved
-- **Quizzes**: 80-95% time saved
-- **Assignments**: 70-90% time saved
-- **Peer Reviews**: 90% time saved
-- **Discussions**: 95% time saved
+### 🛠 Option 1: Manual Installation (Chrome & Others)
 
-## 🔧 How to Get Started
+1. Download the latest `build.zip` from the [Releases Page](https://github.com/Pear104/coursera-tool/releases)
+2. Extract the contents to a folder
+3. Open Chrome and navigate to `chrome://extensions/`
+4. Enable **Developer Mode** (top-right toggle)
+5. Click **"Load unpacked"**
+6. Select the extracted folder
 
-To access this powerful tool:
+📘 Need help? Follow this [detailed installation guide](https://ui.vision/howto/install-chrome-extension-from-file)
 
-1. **Contact our support team** at 9277.dev@gmail.com
-2. **Specify your course requirements** and goals
-3. **Receive setup instructions** after completing your purchase
-4. **Start using immediately** on your Coursera courses
+### 🎯 Option 2: Premium Version
 
-Our team provides personalized onboarding to ensure you get the most out of CourseraXpress.
+For advanced features and dedicated support:
+- **Contact:** 9277.dev@gmail.com
+- **Pricing:** $10 per course (one-time payment)
+- **Benefits:** Enhanced automation, priority support, custom solutions
+- **Setup:** Personalized onboarding included
 
-## 💼 Ideal For:
+## 🖼 Screenshots & Preview
 
-- **Busy professionals** balancing work and continuing education
-- **Students** managing multiple courses with tight deadlines
-- **Knowledge seekers** who want to focus on content, not busy work
-- **Certificate earners** looking to complete requirements efficiently
-- **Course previewing** to quickly assess course quality and content
+![Screenshot 2](./images/Screenshot2.png)
 
-## 🛠️ Technology Behind CourseraXpress
+### 😱 Special Features for FPT Students
 
-Our solution seamlessly integrates with Coursera's platform using modern web technologies:
+![Screenshot 3](./images/Screenshot3.png)
 
-- **Advanced automation** for course interaction
-- **Secure browser integration** for a seamless experience
-- **Responsive design** that works with any Coursera course
-- **Comprehensive quiz database** for accurate answers
-- **Privacy-focused architecture** that keeps your data secure
+## 🛠️ Technology & Architecture
 
-## 💲 Pricing
+Built with modern web technologies for reliable performance:
 
-### Ridiculously Affordable Investment
+- **Advanced Automation:** Seamless integration with Coursera's platform
+- **Secure Browser Integration:** Privacy-focused local operation
+- **Responsive Design:** Compatible with all Coursera course formats
+- **Comprehensive Database:** Extensive quiz answer repository
+- **Minimal Permissions:** Only essential browser permissions required
 
-- **Just $10 per course** - one-time payment for complete automation
-- **Insane ROI** - save dozens of hours worth hundreds of dollars
-- **Subscription options** - Contact us for details
-- **Volume discounts** - special rates available for multiple courses
+## 💼 Ideal For
 
-Contact us for custom plans or special requirements.
+- **Busy Professionals:** Balancing work and continuing education
+- **Students:** Managing multiple courses with tight deadlines
+- **Lifelong Learners:** Focusing on content over busy work
+- **Certificate Seekers:** Completing requirements efficiently
+- **Course Evaluators:** Quickly assessing course quality and content
 
 ## 🔒 Privacy & Security
 
-- **No data collection** - your information stays private
-- **Local operation** - processes run in your browser
-- **No login required** - works with your existing Coursera account
-- **Minimal permissions** - only what's needed for functionality
+Your privacy is our priority:
 
+- ✅ **No Data Collection:** Your information stays completely private
+- ✅ **Local Processing:** All operations run in your browser
+- ✅ **No Login Required:** Works with your existing Coursera account
+- ✅ **Minimal Permissions:** Only necessary browser access
+- ✅ **Secure Architecture:** Privacy-focused design principles
 
+## 💲 Pricing Options
 
-## 🚨 Educational Purpose Disclaimer
+### Free Version
+- Basic automation features
+- Community support
+- Standard functionality
 
-CourseraXpress is provided for **educational and research purposes** to understand browser automation and web scraping techniques. Users should:
+### Premium Version ($10/course)
+- **Complete Automation Suite:** All features unlocked
+- **Priority Support:** 24-hour response time
+- **Custom Solutions:** Tailored for specific requirements
+- **Volume Discounts:** Special rates for multiple courses
+- **Personalized Onboarding:** Setup guidance included
 
-- Ensure compliance with Coursera's Terms of Service
-- Use the tool responsibly and ethically
-- Focus on learning the material, not just certification
-- Consider this as a learning aid, not a replacement for education
+**Contact 9277.dev@gmail.com for pricing and custom plans**
+
+## ⚠️ Educational Purpose & Responsible Use
+
+This extension is provided for educational and research purposes to understand browser automation and web scraping techniques. Users should:
+
+- ✅ Ensure compliance with Coursera's Terms of Service
+- ✅ Use the tool responsibly and ethically
+- ✅ Focus on learning the material, not just certification
+- ✅ Consider this as a learning aid, not a replacement for education
+- ✅ Don't misuse this for official work or certificates where personal completion matters
 
 ## 📞 Support & Contact
 
-Need more information or ready to purchase? We're here to assist:
+**Community Support:**
+- 🐞 [Report Issues on GitHub](https://github.com/Pear104/coursera-tool/issues)
+- 💬 [Facebook Support](https://www.facebook.com/profile.php?id=100074006097767)
 
-- **Email**: 9277.dev@gmail.com
-- **Response Time**: Within 24 hours
-- **Support**: Initial setup guidance and troubleshooting included
-- **Custom Solutions**: Available for specific course requirements
+**Premium Support:**
+- 📧 **Email:** 9277.dev@gmail.com
+- ⏱️ **Response Time:** Within 24 hours
+- 🛠️ **Included:** Setup guidance and troubleshooting
+- 🎯 **Custom Solutions:** Available for specific requirements
 
-## 🔄 Regular Updates
+## ☕ Support the Project
 
-We continuously improve CourseraXpress with:
+This extension is **100% free** for the community. If you find it valuable:
 
-- New features based on user feedback
-- Coursera platform compatibility updates
-- Enhanced quiz database coverage
-- Performance optimizations
+- ⭐ **Star the repository** on GitHub
+- 💬 **Leave feedback** and reviews
+- [☕ **Buy me a coffee**](https://coff.ee/phamquangvinh)
+- 🔄 **Share with fellow learners**
+
+> Every gesture of support, whether a coffee or a kind comment, keeps this project alive and evolving. Thank you!
+
+## 🔄 Updates & Maintenance
+
+We continuously improve the extension with:
+
+- 🆕 **New Features:** Based on user feedback and requests
+- 🔄 **Platform Updates:** Maintaining Coursera compatibility
+- 📈 **Enhanced Database:** Expanding quiz answer coverage
+- ⚡ **Performance Optimizations:** Faster and more reliable automation
+- 🔒 **Security Updates:** Maintaining privacy and safety standards
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit pull requests, report bugs, or suggest new features.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-Discover how CourseraXpress can automate your Coursera courses and save you hours of time. Contact us today to learn more!
+**Developed with ❤️ by the open-source community**
+*Original concept from FPT • Enhanced and maintained by 9277.dev@gmail.com*
 
-**Keywords**: CourseraXpress, Coursera automation tool, Coursera video skipper, quiz solver, assignment generator, course completion tool, Coursera assistant, automatic peer reviews, Coursera discussion poster, Coursera completion bot, affordable Coursera tool, $10 course automation, Coursera time-saving tool, fast certificate
+**Keywords:** Coursera automation, course completion tool, educational browser extension, quiz solver, assignment helper, video skipper, peer review automation, study productivity, learning efficiency
